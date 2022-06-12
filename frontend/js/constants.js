@@ -1,11 +1,11 @@
-const contractAddress = "0xaAe7C42be683D6576D500cff62BeB2570e231f60"; //Replace with your own contract address
+const contractAddress = "0x7c41D66580A92A6406752650309543A1601b48dD"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the NFT FUNDAÇÂO RIOS VERDES Project!!!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection."  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!!!";
-const h1_presale_mint = "Pre-Sale Minting Open 0xaAe7C42be683D6576D500cff62BeB2570e231f60 !! ";
+const h1_presale_mint = "Pre-Sale Minting Open 48dD !! ";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
