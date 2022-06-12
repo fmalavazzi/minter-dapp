@@ -1,4 +1,4 @@
-const contractAddress = "0x58a6964BD2Ca6f35FF46bD0EAFcb3f6C70340aA5"; //Replace with your own contract address
+const contractAddress = "0xaAe7C42be683D6576D500cff62BeB2570e231f60"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the NFT FUNDAÇÂO RIOS VERDES Project!!!!!";
